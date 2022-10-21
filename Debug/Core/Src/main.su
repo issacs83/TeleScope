@@ -1,0 +1,10 @@
+../Core/Src/main.c:126:5:ParsingData	40	static
+../Core/Src/main.c:155:5:StringToInt	16	static
+../Core/Src/main.c:173:7:IntToString	32	static
+../Core/Src/main.c:196:6:Protocol	24	static
+../Core/Src/main.c:306:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:722:6:SystemClock_Config	8	static,ignoring_inline_asm
+../Core/Src/main.c:263:6:SleepMode	8	static
+../Core/Src/main.c:285:6:StopMode	8	static
+../Core/Src/main.c:389:5:main	120	static,ignoring_inline_asm
+../Core/Src/main.c:997:6:Error_Handler	0	static,ignoring_inline_asm

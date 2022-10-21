@@ -1,0 +1,5 @@
+../Core/Src/adc.c:18:6:InitADC	8	static
+../Core/Src/adc.c:78:6:EnableADC	0	static
+../Core/Src/adc.c:93:6:DisableADC	0	static
+../Core/Src/adc.c:115:10:GetADC	48	static
+../Core/Src/adc.c:167:6:ADC1_COMP_ISR	0	static

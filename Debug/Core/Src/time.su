@@ -1,0 +1,3 @@
+../Core/Src/time.c:15:6:time_SysTick_Handler	0	static
+../Core/Src/time.c:19:6:time_setup	8	static
+../Core/Src/time.c:53:19:time_ms	0	static

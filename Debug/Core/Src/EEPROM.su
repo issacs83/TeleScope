@@ -1,0 +1,8 @@
+../Core/Src/EEPROM.c:23:9:UnlockEEPROM	0	static,ignoring_inline_asm
+../Core/Src/EEPROM.c:48:6:LockEEPROM	0	static
+../Core/Src/EEPROM.c:53:6:ProgramEEPROM	0	static
+../Core/Src/EEPROM.c:69:10:Read32EEPROM	0	static
+../Core/Src/EEPROM.c:74:10:Read16EEPROM	0	static
+../Core/Src/EEPROM.c:79:9:ReadEEPROM	0	static
+../Core/Src/EEPROM.c:84:6:ReadSystemConfig	0	static
+../Core/Src/EEPROM.c:96:6:WriteSystemConfig	8	static

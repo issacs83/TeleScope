@@ -1,0 +1,5 @@
+../Core/Src/usart.c:53:6:PrintUART	0	static,ignoring_inline_asm
+../Core/Src/usart.c:65:9:isReadyByte	0	static
+../Core/Src/usart.c:70:9:GetReadBytes	0	static
+../Core/Src/usart.c:75:10:GetUART	0	static
+../Core/Src/usart.c:86:6:LPUART1_ISR	24	static,ignoring_inline_asm
